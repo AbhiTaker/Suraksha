@@ -13,4 +13,4 @@ There will be a website and also an android application. Both website and androi
 	
 -   Our database will also have data of different hospitals and pharmaceuticals. The data can be used to inform hospitals and pharmaceuticals located in the disaster prone area to prepare for any  upcoming disaster by increasing their supplies.
 
-
+-	Our app will allow emergency response crews to immediately connect with survivors and direct their attention accordingly providing them real time updates of the the survivors location.
