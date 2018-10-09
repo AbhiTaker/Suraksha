@@ -3,6 +3,7 @@
 **Suraksha** is a platform where user can register so that he/she can get a notification whenever there is some warning of any kind of calamity in his locality. User position coordinates will get updated at a regular interval automatically on our platforms database which can be used to track the last location where person was present,  in case of disaster or natural calamity.
 
 **Platforms**
+
 There will be an website and also an android application. Both website and android application can be used by an user to register to our services. The android application will fetch the location with the help of GPS services. 
 
 **Functions**
