@@ -13,4 +13,6 @@ There will be a website and also an android application. Both website and androi
 	
 -   Our database will also have data of different hospitals and pharmaceuticals. The data can be used to inform hospitals and pharmaceuticals located in the disaster prone area to prepare for any  upcoming disaster by increasing their supplies.
 
--	Our app will allow emergency response crews to immediately connect with survivors and direct their attention accordingly providing them real time updates of the the survivors location.
+-   Our app will allow emergency response crews to immediately connect with survivors and direct their attention accordingly providing them real time updates of the the survivors location.
+
+-   In the case of an accident or an emergency situation such as a natural disaster, the person can hit an SOS button and all the data (images and audio) will be gathered and is sent to the person's emergency contact list including a feature-rich map of his/her location.
